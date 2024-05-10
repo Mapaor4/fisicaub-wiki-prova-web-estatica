@@ -10,15 +10,15 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Prova web notion amb nextjs',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'nextjs-notion-starter-hbx8y0qyo-martis-projects-8ff86680.vercel.app',
+  author: 'Martí Pardo',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'parduxx',
-  github: 'transitive-bullshit',
+  twitter: 'parduux',
+  github: 'Mapaor4',
   linkedin: 'martipardo',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
@@ -50,6 +50,8 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
+  // Podria estar xulo, així a dalt posa "*logo*" que si el cliques et porta a la pàgina principal, i després un "Dreceres matemàtiques per la física"
+  // i un "Sobre aquesta web" o "Com participar"
   navigationStyle: 'default'
   // navigationStyle: 'custom',
   // navigationLinks: [
