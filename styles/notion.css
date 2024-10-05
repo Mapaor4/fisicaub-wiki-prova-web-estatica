@@ -7,6 +7,17 @@
  * places to add some flare.
  */
 
+.notion-equation-block {
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  width: 100%;
+  max-width: 100%;
+  padding: 12px 0;
+  margin: 4px 0;
+  cursor: pointer;
+}
+
 .notion {
   --notion-max-width: 720px;
   --notion-header-height: 54px;
