@@ -2,14 +2,14 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '0d6f133c7e42476b83652966221e780a',
+  rootNotionPageId: 'b0f4ba175264499e92bd6acf0088bce1',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Prova web notion amb nextjs',
+  name: 'Prova web marti nextjs',
   domain: 'nextjs-notion-starter-hbx8y0qyo-martis-projects-8ff86680.vercel.app',
   author: 'Martí Pardo',
 
